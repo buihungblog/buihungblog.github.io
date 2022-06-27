@@ -23,7 +23,7 @@ Về tôi = [
 [![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&color=F2344E&logoColor=white)](https://www.instagram.com/hungqb.ads/)
 
 ## Thêm nguồn Jailbreak ở đây:
-[![Cydia](https://img.shields.io/badge/Cydia-0077B5?style=for-the-badge&logo=cydia&color=EB974E&logoColor=white)](https://quanghungfoto.github.io/)
-[![Cydia](https://img.shields.io/badge/Sileo-0077B5?style=for-the-badge&logo=cydia&color=03A678&logoColor=white)](https://quanghungfoto.github.io/)
-[![Cydia](https://img.shields.io/badge/Zebra-0077B5?style=for-the-badge&logo=cydia&color=EEEEEE&logoColor=white)](https://quanghungfoto.github.io/)
-[![Cydia](https://img.shields.io/badge/Installer5-0077B5?style=for-the-badge&logo=cydia&color=59ABE3&logoColor=white)](https://quanghungfoto.github.io/)
+[![Cydia](https://img.shields.io/badge/Cydia-0077B5?style=for-the-badge&logo=cydia&color=EB974E&logoColor=white)](https://buihungblog.github.io/)
+[![Cydia](https://img.shields.io/badge/Sileo-0077B5?style=for-the-badge&logo=cydia&color=03A678&logoColor=white)](https://buihungblog.github.io/)
+[![Cydia](https://img.shields.io/badge/Zebra-0077B5?style=for-the-badge&logo=cydia&color=EEEEEE&logoColor=white)](https://buihungblog.github.io/)
+[![Cydia](https://img.shields.io/badge/Installer5-0077B5?style=for-the-badge&logo=cydia&color=59ABE3&logoColor=white)](https://buihungblog.github.io/)
