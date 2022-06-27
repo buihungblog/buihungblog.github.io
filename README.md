@@ -1,7 +1,7 @@
 <div align="center">
   <img src="img/icon.png" alt="Bùi Hùng Blog width="320">
-  <h1>Chào mừng bạn đến với github của tôi</h1>
-  <strong>Luôn chia sẻ những Tweak 👩🏽‍💻</strong>
+  <h1>Chào mừng bạn đến với GitHub của tôi</h1>
+  <strong>Luôn chia sẻ những tài nguyên 🧏🏻</strong>
   <h6>Làm với ❤️ &nbsp;bởi nhà phát triển Bùi Hùng Blog</h6>
 </div>
 <br>
