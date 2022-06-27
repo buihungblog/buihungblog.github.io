@@ -16,7 +16,6 @@ Về tôi = [
 ]
 ```
 
-
 ## 📫 Liên hệ với tôi:
 [![Facebook](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&color=395693&logoColor=white)](https://www.facebook.com/buihungblog/)
 [![Email](https://img.shields.io/badge/Gmail-0077B5?style=for-the-badge&logo=gmail&color=ff1800&logoColor=white)](mailto:quanghungfoto@gmail.com/)
@@ -27,3 +26,6 @@ Về tôi = [
 [![Cydia](https://img.shields.io/badge/Sileo-0077B5?style=for-the-badge&logo=cydia&color=03A678&logoColor=white)](https://buihungblog.github.io/)
 [![Cydia](https://img.shields.io/badge/Zebra-0077B5?style=for-the-badge&logo=cydia&color=EEEEEE&logoColor=white)](https://buihungblog.github.io/)
 [![Cydia](https://img.shields.io/badge/Installer5-0077B5?style=for-the-badge&logo=cydia&color=59ABE3&logoColor=white)](https://buihungblog.github.io/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=buihungblog&theme=tokyonight&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buihungblog&theme=tokyonight&layout=&langs_count=5">
